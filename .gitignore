@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# venv file
+hw5-venv
+
+
 # Distribution / packaging
 .Python
 build/
